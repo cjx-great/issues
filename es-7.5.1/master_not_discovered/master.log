@@ -1,0 +1,56 @@
+[2020-11-25T04:20:59,554][INFO ][o.e.c.s.MasterService    ] [hw-sh-t-opslog-02-masternode]node-left[{hw-sh-t-opslog-09-datanode_s
+tale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.m
+ax_open_jobs=20, xpack.installed=true, box_type=stale} reason: disconnected], term: 680, version: 991412, delta: removed {{hw-sh-
+t-opslog-09-datanode_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_me
+mory=67560857600, ml.max_open_jobs=20, xpack.installed=true, box_type=stale}}
+[2020-11-25T04:21:02,886][INFO ][o.e.c.s.ClusterApplierService] [hw-sh-t-opslog-02-masternode]removed {{hw-sh-t-opslog-09-datanod
+e_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, m
+l.max_open_jobs=20, xpack.installed=true, box_type=stale}}, term: 680, version: 991412, reason: Publication{term=680, version=991
+412}
+[2020-11-25T04:21:02,926][INFO ][o.e.c.r.DelayedAllocationService] [hw-sh-t-opslog-02-masternode]scheduling reroute for delayed s
+hards in [4.8m] (1117 delayed shards)
+[2020-11-25T04:21:04,074][INFO ][o.e.c.s.MasterService    ] [hw-sh-t-opslog-02-masternode]node-join[{hw-sh-t-opslog-09-datanode_s
+tale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.m
+ax_open_jobs=20, xpack.installed=true, box_type=stale} join existing leader], term: 680, version: 991414, delta: added {{hw-sh-t-
+opslog-09-datanode_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memo
+ry=67560857600, ml.max_open_jobs=20, xpack.installed=true, box_type=stale}}
+[2020-11-25T04:21:04,472][INFO ][o.e.c.s.ClusterApplierService] [hw-sh-t-opslog-02-masternode]added {{hw-sh-t-opslog-09-datanode_
+stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.
+max_open_jobs=20, xpack.installed=true, box_type=stale}}, term: 680, version: 991414, reason: Publication{term=680, version=99141
+4}
+[2020-11-25T04:21:08,002][INFO ][o.e.c.s.MasterService    ] [hw-sh-t-opslog-02-masternode]node-left[{hw-sh-t-opslog-09-datanode_s
+tale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.m
+ax_open_jobs=20, xpack.installed=true, box_type=stale} reason: disconnected], term: 680, version: 991415, delta: removed {{hw-sh-
+t-opslog-09-datanode_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_me
+mory=67560857600, ml.max_open_jobs=20, xpack.installed=true, box_type=stale}}
+[2020-11-25T04:21:08,373][INFO ][o.e.c.s.ClusterApplierService] [hw-sh-t-opslog-02-masternode]removed {{hw-sh-t-opslog-09-datanod
+e_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, m
+l.max_open_jobs=20, xpack.installed=true, box_type=stale}}, term: 680, version: 991415, reason: Publication{term=680, version=991
+415}
+[2020-11-25T04:21:08,411][INFO ][o.e.c.s.MasterService    ] [hw-sh-t-opslog-02-masternode]node-join[{hw-sh-t-opslog-09-datanode_s
+tale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.m
+ax_open_jobs=20, xpack.installed=true, box_type=stale} join existing leader], term: 680, version: 991416, delta: added {{hw-sh-t-
+opslog-09-datanode_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memo
+ry=67560857600, ml.max_open_jobs=20, xpack.installed=true, box_type=stale}}
+[2020-11-25T04:21:08,748][INFO ][o.e.c.s.ClusterApplierService] [hw-sh-t-opslog-02-masternode]added {{hw-sh-t-opslog-09-datanode_
+stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.
+max_open_jobs=20, xpack.installed=true, box_type=stale}}, term: 680, version: 991416, reason: Publication{term=680, version=99141
+6}
+[2020-11-25T04:21:12,737][INFO ][o.e.c.s.MasterService    ] [hw-sh-t-opslog-02-masternode]node-left[{hw-sh-t-opslog-09-datanode_s
+tale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.m
+ax_open_jobs=20, xpack.installed=true, box_type=stale} reason: disconnected], term: 680, version: 991417, delta: removed {{hw-sh-
+t-opslog-09-datanode_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_me
+mory=67560857600, ml.max_open_jobs=20, xpack.installed=true, box_type=stale}}
+[2020-11-25T04:21:12,809][INFO ][o.e.c.s.ClusterApplierService] [hw-sh-t-opslog-02-masternode]removed {{hw-sh-t-opslog-09-datanod
+e_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, m
+l.max_open_jobs=20, xpack.installed=true, box_type=stale}}, term: 680, version: 991417, reason: Publication{term=680, version=991
+417}
+[2020-11-25T04:21:13,037][INFO ][o.e.c.s.MasterService    ] [hw-sh-t-opslog-02-masternode]node-join[{hw-sh-t-opslog-09-datanode_s
+tale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.m
+ax_open_jobs=20, xpack.installed=true, box_type=stale} join existing leader], term: 680, version: 991419, delta: added {{hw-sh-t-
+opslog-09-datanode_stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memo
+ry=67560857600, ml.max_open_jobs=20, xpack.installed=true, box_type=stale}}
+[2020-11-25T04:21:13,383][INFO ][o.e.c.s.ClusterApplierService] [hw-sh-t-opslog-02-masternode]added {{hw-sh-t-opslog-09-datanode_
+stale}{b3mQRikmS1a4mXmyHKXu8g}{M3gSzZE6QnGFuQc1v_lEYQ}{10.221.46.135}{10.221.46.135:9301}{dil}{ml.machine_memory=67560857600, ml.
+max_open_jobs=20, xpack.installed=true, box_type=stale}}, term: 680, version: 991419, reason: Publication{term=680, version=99141
+9}
